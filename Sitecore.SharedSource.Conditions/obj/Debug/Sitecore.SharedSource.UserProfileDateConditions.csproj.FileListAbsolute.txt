@@ -1,0 +1,7 @@
+D:\code\github\Sitecore.SharedSource.UserProfileDateConditions\Sitecore.SharedSource.UserProfileDateConditions\bin\Debug\Sitecore.SharedSource.UserProfileDateConditions.dll
+D:\code\github\Sitecore.SharedSource.UserProfileDateConditions\Sitecore.SharedSource.UserProfileDateConditions\bin\Debug\Sitecore.SharedSource.UserProfileDateConditions.pdb
+D:\code\github\Sitecore.SharedSource.UserProfileDateConditions\Sitecore.SharedSource.UserProfileDateConditions\bin\Debug\Sitecore.Analytics.dll
+D:\code\github\Sitecore.SharedSource.UserProfileDateConditions\Sitecore.SharedSource.UserProfileDateConditions\bin\Debug\Sitecore.Kernel.dll
+D:\code\github\Sitecore.SharedSource.UserProfileDateConditions\Sitecore.SharedSource.UserProfileDateConditions\obj\Debug\Sitecore.SharedSource.UserProfileDateConditions.dll
+D:\code\github\Sitecore.SharedSource.UserProfileDateConditions\Sitecore.SharedSource.UserProfileDateConditions\obj\Debug\Sitecore.SharedSource.UserProfileDateConditions.pdb
+D:\code\github\Sitecore.SharedSource.UserProfileDateConditions\Sitecore.SharedSource.UserProfileDateConditions\obj\Debug\Sitecore.SharedSource.UserProfileDateConditions.csprojResolveAssemblyReference.cache

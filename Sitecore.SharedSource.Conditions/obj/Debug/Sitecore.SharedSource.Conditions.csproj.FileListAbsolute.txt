@@ -1,0 +1,6 @@
+D:\code\github\Sitecore.SharedSource.Conditions\Sitecore.SharedSource.Conditions\bin\Debug\Sitecore.Analytics.dll
+D:\code\github\Sitecore.SharedSource.Conditions\Sitecore.SharedSource.Conditions\bin\Debug\Sitecore.Kernel.dll
+D:\code\github\Sitecore.SharedSource.Conditions\Sitecore.SharedSource.Conditions\bin\Debug\Sitecore.SharedSource.Conditions.dll
+D:\code\github\Sitecore.SharedSource.Conditions\Sitecore.SharedSource.Conditions\bin\Debug\Sitecore.SharedSource.Conditions.pdb
+D:\code\github\Sitecore.SharedSource.Conditions\Sitecore.SharedSource.Conditions\obj\Debug\Sitecore.SharedSource.Conditions.dll
+D:\code\github\Sitecore.SharedSource.Conditions\Sitecore.SharedSource.Conditions\obj\Debug\Sitecore.SharedSource.Conditions.pdb
